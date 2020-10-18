@@ -27,7 +27,7 @@
 -    lly
 -    ReallySnow
 -    Amktiao
-
+-    zclkkk
 ## 已通过审核人员
 
 
@@ -38,3 +38,4 @@
 	4.	QQ名称：lly  GitHub：loserq
 	5.	GitHub：ReallySnow
 	6.	QQ名称：Amktiao  GitHub： Aquarius223
+	7.	QQ名称：zclkkk  GitHub： zclkkk
